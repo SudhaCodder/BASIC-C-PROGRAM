@@ -1,5 +1,5 @@
 #include <stdio.h>
-// sum of 20 first natural numbers
+// sum of first natural numbers
 int main()
 {
     int i=1;
